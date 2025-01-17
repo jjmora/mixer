@@ -2,7 +2,7 @@
   "name": "Audio Mixer",
   "short_name": "AudioMix",
   "description": "Mezclador de audio con múltiples pistas",
-  "start_url": "./mixer/",
+  "start_url": "./",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#ffffff",
