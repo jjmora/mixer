@@ -2,7 +2,7 @@
   "name": "Audio Mixer",
   "short_name": "AudioMix",
   "description": "Mezclador de audio con múltiples pistas",
-  "start_url": "./",
+  "start_url": "./mixer/",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#ffffff",
@@ -10,13 +10,13 @@
   "categories": ["music", "audio"],
   "icons": [
       {
-          "src": "icons/icon-192x192.png",
+          "src": "mixer/icons/icon-192x192.png",
           "sizes": "192x192",
           "type": "image/png",
           "purpose": "any maskable"
       },
       {
-          "src": "icons/icon-512x512.png",
+          "src": "mixer/icons/icon-512x512.png",
           "sizes": "512x512",
           "type": "image/png",
           "purpose": "any maskable"
